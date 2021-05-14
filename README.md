@@ -1,7 +1,13 @@
 <img align="right" src="./assets/ilustration.svg" width="300" />
 
-## 👋 Olá, seja bem-vindo!
+# 👋 Olá, seja bem-vindo!
 👨‍💻 Meu nome é Djoni Bourshcheid, tenho 16 anos, sou desenvolvedor front-end e entusiasta por tecnologia.
+
+### 📞 Contatos
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/368200224570867723/)
+[![Twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djonibourscheid)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/djonibourscheid/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/djonibourscheid/)
 
 ---
 
