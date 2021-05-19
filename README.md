@@ -1,4 +1,6 @@
-<img align="right" src="./assets/ilustration.svg" width="300" />
+<a href="#">
+  <img align="right" src="./assets/ilustration.svg" width="300" />
+</a>
 
 # 👋 Olá, seja bem-vindo!
 👨‍💻 Meu nome é Djoni Bourshcheid, tenho 16 anos, sou desenvolvedor front-end e entusiasta por tecnologia.
