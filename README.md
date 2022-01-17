@@ -24,16 +24,6 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=djonibourscheid&repo=MoveIT-NLW4&theme=radical" alt="Repositório do projeto MoveIT" />
 </a>
 
-<br />
-
-<a href="https://github.com/djonibourscheid/Happy-NLW3">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=djonibourscheid&repo=Happy-NLW3&theme=radical" alt="Repositório do projeto Happy" />
-</a>
-
-<a href="https://github.com/djonibourscheid/Ecoleta-NLW1">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=djonibourscheid&repo=Ecoleta-NLW1&theme=radical" alt="Repositório do projeto Ecoleta" />
-</a>
-
 ---
 
 ## 📈 GitHub Stats
