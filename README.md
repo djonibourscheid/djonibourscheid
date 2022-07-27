@@ -3,7 +3,7 @@
 </a>
 
 # 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Djoni Bourshcheid, tenho 16 anos, sou desenvolvedor front-end e entusiasta por tecnologia.
+👨‍💻 Meu nome é Djoni Bourshcheid, tenho 17 anos, sou desenvolvedor front-end e entusiasta por tecnologia.
 
 ### 📞 Contatos
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/368200224570867723/)
