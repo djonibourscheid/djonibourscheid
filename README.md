@@ -3,7 +3,7 @@
 </a>
 
 # 👋 Olá, seja bem-vindo!
-👨‍💻 Meu nome é Djoni Bourshcheid, tenho 17 anos, sou desenvolvedor front-end e entusiasta por tecnologia.
+👨‍💻 Meu nome é Djoni Bourshcheid, tenho 18 anos, sou desenvolvedor front-end e entusiasta por tecnologia. Atualmente estou estudando PHP e procurando novas oportunidades.
 
 ### 📞 Contatos
 [![Twitter](https://img.shields.io/badge/Twitter-informational?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djonibourscheid)
@@ -16,6 +16,14 @@
 ## 📌 Repositórios Pinados
 
 <p align="center">
+<a href="https://github.com/djonibourscheid/curso-nova-geracao">
+  <img align="center" style="margin:32px 16px" src="https://github-readme-stats.vercel.app/api/pin/?username=djonibourscheid&repo=curso-nova-geracao&theme=radical" alt="Repositório com os projetos dos cursos da Nova Geração" />
+</a>
+
+<a href="https://github.com/djonibourscheid/aprendendo-php">
+  <img align="center" style="margin:32px 16px" src="https://github-readme-stats.vercel.app/api/pin/?username=djonibourscheid&repo=aprendendo-php&theme=radical" alt="Repositório com os projetos das aulas de php na Alura" />
+</a>
+
 <a href="https://github.com/djonibourscheid/Podcastr-NLW5">
   <img align="center" style="margin:32px 16px" src="https://github-readme-stats.vercel.app/api/pin/?username=djonibourscheid&repo=Podcastr-NLW5&theme=radical" alt="Repositório do projeto Podcastr" />
 </a>
